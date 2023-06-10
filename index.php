@@ -64,9 +64,7 @@
         include("configuration.php"); 
 
         include("1ervue.php"); 
-        include("1ervue1.php"); 
-
-
+    
 
         include("utilisation.php"); 
 
